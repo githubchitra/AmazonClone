@@ -13,7 +13,7 @@ This project is a clone of the Amazon website, built using HTML and CSS. It repl
 - CSS
 
 ## Installation
-1. Clone the repository: git clone https://github.com/your-username/amazon-clone.git
+1. Clone the repository: git clone https://github.com/githubchitra/amazon-clone.git
 2. Open the project in your preferred code editor.
 
 ## Contributing
