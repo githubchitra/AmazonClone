@@ -14,10 +14,15 @@ This project is a clone of the Amazon website, built using HTML and CSS. It repl
 
 ## Files
 -README: this file contains information about the source code.
+
 -index.html: this file contains the code for the structure of website.
+
 -style.css: this file contains the code for the layout of the clone.
+
 -amazon_logo.png: this file contains the logo of amazon website.
+
 -bcgimg1: this file contains the background image.
+
 
 ## Contacts
 -Gmail: pathakchitra90@gmail.com
