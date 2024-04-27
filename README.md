@@ -21,9 +21,13 @@ This project is a clone of the Amazon website, built using HTML and CSS. It repl
 
 ## Contacts
 -Gmail: pathakchitra90@gmail.com
+
 -Github: https://github.com/githubchitra
+
 -Twitter: https://twitter.com/Chitra__13
+
 -linkedin : www.linkedin.com/in/chitra-pathak-061359289
+
 
 ## Contributing
 Contributions are welcome! Feel free to fork the repository and submit pull requests with any improvements or features.
