@@ -344,38 +344,54 @@ a{
     align-items: center;
 }
 
+.aa{
+    padding-top: 8.5px;
+    padding-bottom: 8.5px;
+    padding-right: 7px;
+    padding-left: 7px;
+    margin: 5px;
+}
+
 .aa:hover{
-    padding: 5px;
-    border: 1.5px solid white;
+    border: 1px solid white;
+    border-radius: 3px;
+    transform:perspective(300px) translateZ(30px);
 }
 
 .shop:hover{
     padding: 5px;
     border: 1.5px solid white;
+    border-radius: 3px;   
 } 
  
 .logodiv:hover{
     border: 1.5px solid white;
+    border-radius: 3px;
 }
 
 .hello:hover{
     border: 1.5px solid white;
+    border-radius: 3px;
 }
 
 .returns:hover{
     border: 1.5px solid white;
+    border-radius: 3px;
 }
 
 #cartdiv:hover{
     border: 1.5px solid white;
+    border-radius: 3px;
 }
 
 .loc:hover{
     border: 1.5px solid white;
+    border-radius: 3px;
 }
 
 .border:hover{
     border-bottom: 1px solid white;
+    box-sizing: border-box;
 }
 
 .img1:hover{
@@ -385,3 +401,5 @@ a{
 .i:hover{
     transform:perspective(300px) translateZ(40px);
 }
+
+
